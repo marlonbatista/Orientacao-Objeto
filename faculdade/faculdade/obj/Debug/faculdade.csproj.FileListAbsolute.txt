@@ -1,0 +1,10 @@
+C:\Users\marlo\Documents\Exericios do C#\2019\faculdade\faculdade\bin\Debug\faculdade.exe.config
+C:\Users\marlo\Documents\Exericios do C#\2019\faculdade\faculdade\bin\Debug\faculdade.exe
+C:\Users\marlo\Documents\Exericios do C#\2019\faculdade\faculdade\bin\Debug\faculdade.pdb
+C:\Users\marlo\Documents\Exericios do C#\2019\faculdade\faculdade\obj\Debug\faculdade.csprojAssemblyReference.cache
+C:\Users\marlo\Documents\Exericios do C#\2019\faculdade\faculdade\obj\Debug\faculdade.Form1.resources
+C:\Users\marlo\Documents\Exericios do C#\2019\faculdade\faculdade\obj\Debug\faculdade.Properties.Resources.resources
+C:\Users\marlo\Documents\Exericios do C#\2019\faculdade\faculdade\obj\Debug\faculdade.csproj.GenerateResource.cache
+C:\Users\marlo\Documents\Exericios do C#\2019\faculdade\faculdade\obj\Debug\faculdade.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Documents\Exericios do C#\2019\faculdade\faculdade\obj\Debug\faculdade.exe
+C:\Users\marlo\Documents\Exericios do C#\2019\faculdade\faculdade\obj\Debug\faculdade.pdb

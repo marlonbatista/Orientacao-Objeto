@@ -1,0 +1,10 @@
+C:\Users\marlo\Documents\Exericios do C#\2019\RestauranteEx3\RestauranteEx3\obj\Debug\RestauranteEx3.csprojAssemblyReference.cache
+C:\Users\marlo\Documents\Exericios do C#\2019\RestauranteEx3\RestauranteEx3\obj\Debug\RestauranteEx3.Form1.resources
+C:\Users\marlo\Documents\Exericios do C#\2019\RestauranteEx3\RestauranteEx3\obj\Debug\RestauranteEx3.Properties.Resources.resources
+C:\Users\marlo\Documents\Exericios do C#\2019\RestauranteEx3\RestauranteEx3\obj\Debug\RestauranteEx3.csproj.GenerateResource.cache
+C:\Users\marlo\Documents\Exericios do C#\2019\RestauranteEx3\RestauranteEx3\obj\Debug\RestauranteEx3.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Documents\Exericios do C#\2019\RestauranteEx3\RestauranteEx3\bin\Debug\RestauranteEx3.exe.config
+C:\Users\marlo\Documents\Exericios do C#\2019\RestauranteEx3\RestauranteEx3\bin\Debug\RestauranteEx3.exe
+C:\Users\marlo\Documents\Exericios do C#\2019\RestauranteEx3\RestauranteEx3\bin\Debug\RestauranteEx3.pdb
+C:\Users\marlo\Documents\Exericios do C#\2019\RestauranteEx3\RestauranteEx3\obj\Debug\RestauranteEx3.exe
+C:\Users\marlo\Documents\Exericios do C#\2019\RestauranteEx3\RestauranteEx3\obj\Debug\RestauranteEx3.pdb

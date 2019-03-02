@@ -1,0 +1,10 @@
+C:\Users\marlo\Documents\Exericios do C#\2019\ImpressoraEx1\ImpressoraEx1\bin\Debug\ImpressoraEx1.exe.config
+C:\Users\marlo\Documents\Exericios do C#\2019\ImpressoraEx1\ImpressoraEx1\bin\Debug\ImpressoraEx1.exe
+C:\Users\marlo\Documents\Exericios do C#\2019\ImpressoraEx1\ImpressoraEx1\bin\Debug\ImpressoraEx1.pdb
+C:\Users\marlo\Documents\Exericios do C#\2019\ImpressoraEx1\ImpressoraEx1\obj\Debug\ImpressoraEx1.csprojAssemblyReference.cache
+C:\Users\marlo\Documents\Exericios do C#\2019\ImpressoraEx1\ImpressoraEx1\obj\Debug\ImpressoraEx1.Form1.resources
+C:\Users\marlo\Documents\Exericios do C#\2019\ImpressoraEx1\ImpressoraEx1\obj\Debug\ImpressoraEx1.Properties.Resources.resources
+C:\Users\marlo\Documents\Exericios do C#\2019\ImpressoraEx1\ImpressoraEx1\obj\Debug\ImpressoraEx1.csproj.GenerateResource.cache
+C:\Users\marlo\Documents\Exericios do C#\2019\ImpressoraEx1\ImpressoraEx1\obj\Debug\ImpressoraEx1.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Documents\Exericios do C#\2019\ImpressoraEx1\ImpressoraEx1\obj\Debug\ImpressoraEx1.exe
+C:\Users\marlo\Documents\Exericios do C#\2019\ImpressoraEx1\ImpressoraEx1\obj\Debug\ImpressoraEx1.pdb
