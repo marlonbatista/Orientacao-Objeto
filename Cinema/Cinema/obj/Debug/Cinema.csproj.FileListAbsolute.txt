@@ -1,0 +1,10 @@
+C:\Users\marlo\Documents\Exericios do C#\2019\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\marlo\Documents\Exericios do C#\2019\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Users\marlo\Documents\Exericios do C#\2019\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Users\marlo\Documents\Exericios do C#\2019\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+C:\Users\marlo\Documents\Exericios do C#\2019\Cinema\Cinema\obj\Debug\Cinema.Form1.resources
+C:\Users\marlo\Documents\Exericios do C#\2019\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+C:\Users\marlo\Documents\Exericios do C#\2019\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+C:\Users\marlo\Documents\Exericios do C#\2019\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Documents\Exericios do C#\2019\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Users\marlo\Documents\Exericios do C#\2019\Cinema\Cinema\obj\Debug\Cinema.pdb

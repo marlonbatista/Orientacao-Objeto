@@ -1,0 +1,10 @@
+C:\Users\marlo\Documents\Exericios do C#\2019\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\marlo\Documents\Exericios do C#\2019\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\marlo\Documents\Exericios do C#\2019\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\marlo\Documents\Exericios do C#\2019\Cadastro\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+C:\Users\marlo\Documents\Exericios do C#\2019\Cadastro\Cadastro\obj\Debug\Cadastro.Form1.resources
+C:\Users\marlo\Documents\Exericios do C#\2019\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\marlo\Documents\Exericios do C#\2019\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\marlo\Documents\Exericios do C#\2019\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Documents\Exericios do C#\2019\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\marlo\Documents\Exericios do C#\2019\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
